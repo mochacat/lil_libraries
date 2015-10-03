@@ -1,0 +1,23 @@
+# npm
+node_modules
+npm-debug.log
+
+#bower
+public/lib
+
+*.log
+*.swo
+*.swp
+*.gz
+
+# Linux
+.directory
+*~
+
+# SASS
+.sass-cache
+
+# mongo
+data/
+credentials.js
+

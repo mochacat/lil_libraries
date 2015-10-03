@@ -1,0 +1,24 @@
+{
+  "name": "libraries",
+  "version": "0.0.0",
+  "authors": [
+    "Cat <cat.r.mocha@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "bootstrap-sass-official#~3.3.5"
+  }
+}
