@@ -11,5 +11,5 @@ Map for Little Libraries in Monrovia. Glendora JavaScript Meetup discussion [her
 5. npm start
 6. localhost:3000
 
-##TODO
-Start group project with [Glendora JavaScript Meetup](http://www.meetup.com/Glendora-JavaScript-Meetup/) group.
+##Update
+Project halted here and moved to [Glendora JavaScript Meetup's](http://www.meetup.com/Glendora-JavaScript-Meetup/) repo: https://github.com/glendora-js/little-library.
